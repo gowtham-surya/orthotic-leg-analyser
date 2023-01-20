@@ -1,4 +1,4 @@
-# IOT based leg Analyser for Orthotic Person
+# IOT based Orthotic leg Analyser
 
 ## An overview of how to build this project
 
